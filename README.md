@@ -1,2 +1,2 @@
 # MusicApp
- A Music Player application which was created as a project for VU MIF Object Oriented JAVA course (3 semester).
+ A Music Player application, which was created as a project for VU MIF Computer Science course "Object Oriented Programming JAVA" (3 semester).
